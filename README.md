@@ -1,0 +1,1 @@
+# Weak-Pattern-Generator---Hex-Address-Generator-for-Crypto-Scanners
